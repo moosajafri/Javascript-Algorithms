@@ -53,3 +53,17 @@ function bitwiseXOR(n1, n2) {
 	}
 	return parseInt(finalString,2);
 }
+
+/////////////////////////////// if you want to use built in Javascript operators/////////////////////////////////
+
+function bitwiseANDJavascriptBuiltIn(n1, n2) {
+	return n1 & n2;
+}
+
+function bitwiseORJavascriptBuiltIn(n1, n2) {
+	return n1 | n2;
+}
+
+function bitwiseXORJavascriptBuiltIn(n1, n2) {
+	return n1 ^ n2;
+}
