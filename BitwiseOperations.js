@@ -54,7 +54,7 @@ function bitwiseXOR(n1, n2) {
 	return parseInt(finalString,2);
 }
 
-/////////////////////////////// if you want to use built in Javascript operators/////////////////////////////////
+/////////////////////////////// if you want to use built in Javascript operators directly on the decimal numbers/////////////////////////////////
 
 function bitwiseANDJavascriptBuiltIn(n1, n2) {
 	return n1 & n2;
