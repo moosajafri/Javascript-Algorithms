@@ -42,4 +42,4 @@ function FindIntersection(strArr) {
 }
 
 // keep this function call here 
-console.log(FindIntersection(readline()));
+console.log(FindIntersection(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"]));
